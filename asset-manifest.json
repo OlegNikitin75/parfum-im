@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/parfum-im/static/css/main.7dbd9f57.css",
+    "main.js": "/parfum-im/static/js/main.accbd103.js",
+    "static/media/user-avatar.svg": "/parfum-im/static/media/user-avatar.7201e732e482b771d2d7.svg",
+    "static/media/cart.svg": "/parfum-im/static/media/cart.1101cef1bc51367941a5.svg",
+    "static/media/magnifier.svg": "/parfum-im/static/media/magnifier.0caf2d32afee76f6a9c4.svg",
+    "static/media/heart.svg": "/parfum-im/static/media/heart.96c76823e34ab249a1fb.svg",
+    "static/media/arrow-chevron-down.svg": "/parfum-im/static/media/arrow-chevron-down.de01bc531825a1295d30.svg",
+    "index.html": "/parfum-im/index.html",
+    "static/media/menu.svg": "/parfum-im/static/media/menu.61eb5e11727d9d256887.svg",
+    "main.7dbd9f57.css.map": "/parfum-im/static/css/main.7dbd9f57.css.map",
+    "main.accbd103.js.map": "/parfum-im/static/js/main.accbd103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbd9f57.css",
+    "static/js/main.accbd103.js"
+  ]
+}
