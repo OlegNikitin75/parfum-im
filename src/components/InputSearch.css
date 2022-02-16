@@ -1,0 +1,18 @@
+.search {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.search__input{
+    width: 100px;
+    border:none;
+    border-bottom: 2px solid var(--mine-haft-color);
+    margin-right: 3px;
+
+
+}
+.btn__search{
+
+    background-image: url(../img/icons/icons-header/magnifier.svg);
+}
