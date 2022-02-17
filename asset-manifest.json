@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/parfum-im/static/css/main.7dbd9f57.css",
-    "main.js": "/parfum-im/static/js/main.accbd103.js",
+    "main.css": "/parfum-im/static/css/main.af9618b2.css",
+    "main.js": "/parfum-im/static/js/main.a00cb7c2.js",
+    "static/media/phone.svg": "/parfum-im/static/media/phone.3b80c39560bf10ee30f0.svg",
     "static/media/user-avatar.svg": "/parfum-im/static/media/user-avatar.7201e732e482b771d2d7.svg",
+    "static/media/vk.svg": "/parfum-im/static/media/vk.41aa36a03e27d60fad34a2953c20992e.svg",
+    "static/media/telegram.svg": "/parfum-im/static/media/telegram.7110edc6660bc7f7c7b9d10788a5c488.svg",
     "static/media/cart.svg": "/parfum-im/static/media/cart.1101cef1bc51367941a5.svg",
+    "static/media/instagram.svg": "/parfum-im/static/media/instagram.19d7ff50b40fea45f84fb06a8b26671a.svg",
     "static/media/magnifier.svg": "/parfum-im/static/media/magnifier.0caf2d32afee76f6a9c4.svg",
     "static/media/heart.svg": "/parfum-im/static/media/heart.96c76823e34ab249a1fb.svg",
     "static/media/arrow-chevron-down.svg": "/parfum-im/static/media/arrow-chevron-down.de01bc531825a1295d30.svg",
     "index.html": "/parfum-im/index.html",
+    "static/media/arrow-right-lg.svg": "/parfum-im/static/media/arrow-right-lg.be0e4bff98aab367d3aa.svg",
     "static/media/menu.svg": "/parfum-im/static/media/menu.61eb5e11727d9d256887.svg",
-    "main.7dbd9f57.css.map": "/parfum-im/static/css/main.7dbd9f57.css.map",
-    "main.accbd103.js.map": "/parfum-im/static/js/main.accbd103.js.map"
+    "main.af9618b2.css.map": "/parfum-im/static/css/main.af9618b2.css.map",
+    "main.a00cb7c2.js.map": "/parfum-im/static/js/main.a00cb7c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dbd9f57.css",
-    "static/js/main.accbd103.js"
+    "static/css/main.af9618b2.css",
+    "static/js/main.a00cb7c2.js"
   ]
 }
